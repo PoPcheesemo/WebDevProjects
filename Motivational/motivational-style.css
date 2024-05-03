@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+img {
+    width: 100%;
+}
+#main {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 100px;
+    text-align:center;
+    border: 8px solid white;
+}
+h1{
+    color: greenyellow;
+    text-transform:uppercase;
+    font-size: 3em;
+}
+p{
+    color: aqua;
+    font-size: 1.5em;
+}
